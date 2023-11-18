@@ -10,12 +10,12 @@ Este es un programa desarrollado en Python con Qt/Py que guarda los datos en un 
 
 Ventana Principal:
 <p align="center">
-  <img src="https://github.com/Nivaniz/GestorSQL/blob/main/photos/mainwindow.png" alt="Main Window" style="width: 50%; max-width: 200px;">
+  <img src="https://github.com/Nivaniz/TableroKanban/blob/main/img/main.png" alt="Main Window" style="width: 50%; max-width: 200px;">
 </p>
 
 Ventana de agregar pendiente:
 <p align="center">
-  <img src="https://github.com/Nivaniz/GestorSQL/blob/main/photos/Confirmation.png" alt="Main Window" style="width: 50%; max-width: 200px;">
+  <img src="https://github.com/Nivaniz/TableroKanban/blob/main/img/pendiente.png" alt="Main Window" style="width: 50%; max-width: 200px;">
 </p>
 
 ## Ejecución 
